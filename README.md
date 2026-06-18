@@ -41,5 +41,5 @@ Target:
 7. Prediction
 
 Best Model: linear regression 
-Author
-Henna
+
+Author: Henna
